@@ -1,0 +1,14 @@
+Food photo credits
+
+These bundled food photos are sourced from Wikimedia Commons for app preview/demo use.
+For production, replace them with the shop's own food photos.
+
+- photo_panipuri: https://commons.wikimedia.org/wiki/File:Crispy_Pani_Puri.jpg
+- photo_bhel: https://commons.wikimedia.org/wiki/File:BHEL_PURI_HOMEMADE_KOTA_032.jpg
+- photo_ghughra: https://commons.wikimedia.org/wiki/File:Gujhia.JPG
+- photo_bread_pakoda: https://commons.wikimedia.org/wiki/File:Bread_pakoda.jpg
+- photo_sevpuri: https://commons.wikimedia.org/wiki/File:Sev_Puri_2023.jpg
+- photo_dahipuri: https://commons.wikimedia.org/wiki/File:Dahi_puri_3.jpg
+- photo_basket_chat: https://commons.wikimedia.org/wiki/File:Basket_Chaat_Bareilly.jpg
+- photo_cheese_basket_chat: https://commons.wikimedia.org/wiki/File:Aloo_tokri_chaat_with_cheese_balls.jpg
+- photo_dahi_kachori: https://commons.wikimedia.org/wiki/File:Kachori_chaat_(9246232760).jpg

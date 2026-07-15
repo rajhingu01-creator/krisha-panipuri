@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="dark_red">#7A0000</color>
+    <color name="dark_red_700">#5A0000</color>
+    <color name="gold">#FFD700</color>
+    <color name="gold_dark">#D6A600</color>
+    <color name="cream">#FFF8E1</color>
+    <color name="white">#FFFFFF</color>
+    <color name="surface_soft">#FFF4F0</color>
+    <color name="text_primary">#231F20</color>
+    <color name="text_secondary">#6D5E5E</color>
+    <color name="success_green">#0E8A42</color>
+    <color name="danger_red">#B00020</color>
+</resources>

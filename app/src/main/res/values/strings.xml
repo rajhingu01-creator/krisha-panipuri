@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DADA\'S CHAT POS</string>
+    <string name="shop_tagline">Fast billing for panipuri and chat shops</string>
+    <string name="default_shop_address">Main Road, Your City</string>
+    <string name="default_shop_mobile">+91 98765 43210</string>
+</resources>
